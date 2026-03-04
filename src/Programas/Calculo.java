@@ -37,5 +37,7 @@ public class Calculo {
         
         pv = tv/3;
         System.out.println("Promedio Ventas: S/" + pv);
+        
+        System.out.println("¡Esto es un cambio!");
     }
 }
